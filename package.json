@@ -9,6 +9,9 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "minimist": "^1.2.5",
+    "rhea": "^1.0.24",
+    "util": "^0.12.3"
   }
 }
